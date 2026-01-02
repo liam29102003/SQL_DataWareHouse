@@ -57,7 +57,8 @@ The warehouse follows a **Medallion Architecture:**
 ## 📺 Based On Tutorial
 
 This project is built by following the hands-on tutorial:
-https://youtu.be/9GVqKuTVANE?si=cCkAgXI-egIzVoLj
+
+### https://youtu.be/9GVqKuTVANE?si=cCkAgXI-egIzVoLj
 ---
 
 
